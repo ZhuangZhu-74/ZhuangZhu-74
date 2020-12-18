@@ -13,6 +13,7 @@
 ### 近期更新
 
 - [将docker主机的sql文件导入到docker容器的数据库](https://github.com/ZhuangZhu-74/QA_references/blob/master/Docker/sql_container.md)
+- [在`fedora:latest`镜像的基础上安装最新的 bash5.1](https://github.com/ZhuangZhu-74/QA_references/blob/master/Docker/fedora_bash51.md)
 
 ### 主要成就
 
